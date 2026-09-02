@@ -1,5 +1,5 @@
 college = input("Enter your college name")
 city = input("Enetr your college city")
-
+mob_no=input("enter mobile number:")
 print("College basic details", college+" " +city)
-
+print("Mobile number:",mob_no)
